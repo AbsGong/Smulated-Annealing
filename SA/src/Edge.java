@@ -1,4 +1,12 @@
-
+/**
+ * Class Name : Edge
+ * 
+ * Author: Shengqi Gong
+ * Date: 9/30/15
+ * Description: An class for object Edge
+ * 				every edge has source and dest which is object node. 
+ * 				Weight is how long from dource to dest
+ **/
 public class Edge {
 	
 	private Node source;

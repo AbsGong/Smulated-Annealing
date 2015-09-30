@@ -1,6 +1,14 @@
 import java.util.ArrayList;
 import java.util.Random;
-
+/**
+ * Class Name : Graph
+ * 
+ * Author: Shengqi Gong
+ * Date: 9/30/15
+ * Description: A Class for object Graph, graph will store edges and nodes, graph has function to operate the
+ * graph and node
+ * 
+ **/
 
 public class Graph {
 	private ArrayList<Edge> edges;

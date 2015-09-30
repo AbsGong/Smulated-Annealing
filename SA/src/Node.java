@@ -1,4 +1,11 @@
-
+/**
+ * Class Name : Node
+ * 
+ * Author: Shengqi Gong
+ * Date: 9/30/15
+ * Description: An class for object node, node will be represent the source and destination node of every edge 
+ * 
+ **/
 public class Node{
 	
 	private String data;

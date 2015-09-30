@@ -1,6 +1,15 @@
 import java.util.ArrayList;
 
-
+/**
+ * Class Name : Driver
+ * 
+ * Author: Shengqi Gong
+ * Date: 9/30/15
+ * Description: Driver contain the main function. 
+ * 			In the main function I manually input data in to graph object
+ * 			Then Call the SA's search function to operate the SA.
+ * 
+ **/
 public class Driver {
 	public static void main(String[] args){
 		Node snellsFarm = new Node("Snell's Farm");
